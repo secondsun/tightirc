@@ -1,0 +1,53 @@
+@font-face {
+  font-family: Roboto;
+  src: url("../font/roboto/Roboto-Regular.ttf");
+}
+
+@font-face {
+  font-family: "Roboto Medium";
+  src: url("../font/roboto/Roboto-Medium.ttf");
+}
+
+@font-face {
+  font-family: "Roboto Light";
+  src: url("../font/roboto/Roboto-Light.ttf");
+}
+
+@font-face {
+  font-family: "Roboto Bold";
+  src: url("../font/roboto/Roboto-Bold.ttf");
+}
+
+.root {
+    -primary: #1a237e;
+    -primary_light: #534bae;
+    -primary_dark: #000051;
+    -primary_text: #fff;
+    -secondary: #304ffe;
+    -secondary_light: #7a7cff;
+    -secondary_dark: #0026ca;
+    -secondary_text: #fff;
+}
+
+.button{
+	-fx-font-family: "Roboto Medium";
+	-fx-font-color: -primary_text;
+	-fx-font-size: 14.0;
+	-fx-background-color: #fff8;
+	-fx-margin: 4px;
+}
+
+.serverList {
+    -fx-padding: 8px;
+    -fx-background-color: -primary_dark;
+    -fx-font-color: -primary_text;
+}
+
+.channelList {
+    -fx-background-color: -primary;
+    -fx-font-color: -primary_text;
+}
+
+.chatPane {
+    -fx-background-color: white;
+}

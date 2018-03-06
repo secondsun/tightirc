@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.*?>
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="132.0" prefHeight="370.0" prefWidth="153.0" xmlns="http://javafx.com/javafx/9" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ScrollPane hbarPolicy="NEVER" layoutX="14.0" layoutY="14.0" prefHeight="370.0" prefWidth="197.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <content>
+            <VBox maxWidth="148.0" minWidth="148.0" prefHeight="368.0" prefWidth="148.0" fx:id="serverIconList">
+               <children>
+                  <JFXButton minWidth="128" maxWidth="128" prefWidth="128" minHeight="128" maxHeight="128" prefHeight="128" style="-fx-background-image: url('/images/batch/aspose-001.png'); -fx-background-color: red;-fx-background-size:116px 116px;-fx-background-position:4 4;-fx-background-repeat:no-repeat">
+                  </JFXButton>
+               </children>
+            </VBox>
+         </content>
+      </ScrollPane>
+   </children>
+</AnchorPane>
