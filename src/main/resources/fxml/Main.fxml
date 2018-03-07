@@ -14,8 +14,7 @@
     <children>
         <Group>
             <VBox fx:id="serverList" styleClass="serverList">
-                <JFXButton fx:id="demoChannel" text="D" styleClass="button"></JFXButton>
-                <JFXButton fx:id="addChannel" text="+"  styleClass="button"></JFXButton>
+
             </VBox>
         </Group>
         <Pane fx:id="channelList" prefHeight="200.0" prefWidth="200.0" styleClass="channelList">

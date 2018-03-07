@@ -38,10 +38,24 @@
 }
 
 .serverList {
-    -fx-padding: 8px;
     -fx-background-color: -primary_dark;
     -fx-font-color: -primary_text;
 }
+
+.serverButton {
+    -fx-padding: 5px;
+    -fx-border-insets: 5px;
+    -fx-background-insets: 5px;
+    -fx-background-image: url('/images/batch/aspose-001.png');
+    -fx-background-size:116px 116px;
+    -fx-background-position:4 4;
+    -fx-background-repeat:no-repeat;
+}
+
+.scroll-pane > .viewport {
+   -fx-background-color: transparent;
+}
+
 
 .channelList {
     -fx-background-color: -primary;

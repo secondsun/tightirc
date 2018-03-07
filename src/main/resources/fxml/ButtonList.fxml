@@ -2,15 +2,36 @@
 
 <?import com.jfoenix.controls.JFXButton?>
 <?import javafx.scene.control.ScrollPane?>
-<?import javafx.scene.layout.*?>
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="132.0" prefHeight="370.0" prefWidth="153.0" xmlns="http://javafx.com/javafx/9" xmlns:fx="http://javafx.com/fxml/1">
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+
+<?import de.jensd.fx.glyphs.GlyphStackIcon?>
+<?import de.jensd.fx.glyphs.fontawesome.FontAwesomeIconView?>
+<?import javafx.scene.layout.StackPane?>
+<?import com.jfoenix.controls.JFXBadge?>
+<?import com.jfoenix.controls.JFXRippler?>
+<AnchorPane fx:id="serverList" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="132.0" prefHeight="370.0" prefWidth="153.0" styleClass="serverList" stylesheets="@../css/style.css" xmlns="http://javafx.com/javafx/9" xmlns:fx="http://javafx.com/fxml/1">
    <children>
-      <ScrollPane hbarPolicy="NEVER" layoutX="14.0" layoutY="14.0" prefHeight="370.0" prefWidth="197.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.topAnchor="0.0">
+      <ScrollPane hbarPolicy="NEVER" layoutX="14.0" layoutY="14.0" prefHeight="370.0" prefWidth="197.0" style="-fx-background-color: transparent;" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
          <content>
-            <VBox maxWidth="148.0" minWidth="148.0" prefHeight="368.0" prefWidth="148.0" fx:id="serverIconList">
+            <VBox fx:id="serverIconList" maxWidth="148.0" minWidth="148.0" prefWidth="148.0" style="-fx-background-color: transparent;">
                <children>
-                  <JFXButton minWidth="128" maxWidth="128" prefWidth="128" minHeight="128" maxHeight="128" prefHeight="128" style="-fx-background-image: url('/images/batch/aspose-001.png'); -fx-background-color: red;-fx-background-size:116px 116px;-fx-background-position:4 4;-fx-background-repeat:no-repeat">
-                  </JFXButton>
+                   <JFXButton maxHeight="128" maxWidth="128" minHeight="128" minWidth="128" prefHeight="128" prefWidth="128" styleClass="serverButton"></JFXButton>
+                   <JFXButton maxHeight="128" maxWidth="128" minHeight="128" minWidth="128" prefHeight="128" prefWidth="128" styleClass="serverButton"></JFXButton>
+                   <JFXButton maxHeight="128" maxWidth="128" minHeight="128" minWidth="128" prefHeight="128" prefWidth="128" styleClass="serverButton"></JFXButton>
+                   <JFXButton maxHeight="128" maxWidth="128" minHeight="128" minWidth="128" prefHeight="128" prefWidth="128" styleClass="serverButton"></JFXButton>
+                   <JFXButton maxHeight="128" maxWidth="128" minHeight="128" minWidth="128" prefHeight="128" prefWidth="128" styleClass="serverButton"></JFXButton>
+                   <JFXButton maxHeight="128" maxWidth="128" minHeight="128" minWidth="128" prefHeight="128" prefWidth="128" styleClass="serverButton"></JFXButton>
+                   <JFXButton maxHeight="128" maxWidth="128" minHeight="128" minWidth="128" prefHeight="128" prefWidth="128" styleClass="serverButton"></JFXButton>
+                   <JFXButton maxHeight="128" maxWidth="128" minHeight="128" minWidth="128" prefHeight="128" prefWidth="128" styleClass="serverButton"></JFXButton>
+                   <JFXButton  maxHeight="128" maxWidth="128" minHeight="128" minWidth="128" prefHeight="128" prefWidth="128" styleClass="serverButton"></JFXButton>
+                   <JFXRippler maxHeight="128" maxWidth="128" minHeight="128" minWidth="128" prefHeight="128" prefWidth="128" style="-jfx-mask-type: CIRCLE;">
+                       <StackPane style="-fx-padding: 10;">
+                           <FontAwesomeIconView glyphName="PLUS_CIRCLE" size="9em" style="-fx-text-fill: #FFF;-fx-fill:white;"
+                                                styleClass="icon"/>
+                       </StackPane>
+                   </JFXRippler>
+
                </children>
             </VBox>
          </content>
