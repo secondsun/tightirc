@@ -47,9 +47,10 @@
     -fx-border-insets: 5px;
     -fx-background-insets: 5px;
     -fx-background-image: url('/images/batch/aspose-001.png');
-    -fx-background-size:116px 116px;
+    -fx-background-size:40px 40px;
     -fx-background-position:4 4;
     -fx-background-repeat:no-repeat;
+
 }
 
 .scroll-pane > .viewport {
