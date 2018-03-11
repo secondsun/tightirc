@@ -8,6 +8,7 @@ import javafx.scene.layout.AnchorPane;
 import javafx.scene.layout.HBox;
 import javafx.scene.text.Font;
 import javafx.stage.Stage;
+import javafx.stage.Window;
 import net.saga.tightirc.controller.LoggedInServiceListController;
 import net.saga.tightirc.controller.ApplicationController;
 
@@ -74,5 +75,9 @@ public class Main extends Application {
         this.primaryStage.setScene(scene);
         primaryStage.show();
 
+    }
+
+    public Window getWindow() {
+        return primaryStage.getScene().getWindow();
     }
 }

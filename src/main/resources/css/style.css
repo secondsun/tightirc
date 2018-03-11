@@ -23,7 +23,7 @@
     -primary_light: #534bae;
     -primary_dark: #000051;
     -text_on_primary: #fff;
-    -primary_text: #aaa
+    -primary_text: #aaa;
     -secondary: #304ffe;
     -secondary_light: #7a7cff;
     -secondary_dark: #0026ca;
@@ -81,14 +81,14 @@
     	-fx-margin: 4px;
 }
 
-VBox.formBody {
-    -fx-alignment: center ;
+.formBody {
+    -fx-alignment: top ;
     -fx-padding: 10px;
     -fx-spacing: 20px;
 
 }
 
-VBox.formBody .formHeader {
+.formBody .formHeader {
     -fx-font-family: "Roboto Medium";
     -fx-font-size: 18.0;
     -fx-margin: 4px;
@@ -97,6 +97,6 @@ VBox.formBody .formHeader {
 
 }
 
-VBox.formBody .formField {
--jfx-label-float:true
+.formBody .formField {
+    -jfx-label-float: 'true'
 }
