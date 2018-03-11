@@ -7,7 +7,7 @@
 <?import javafx.scene.text.Text?>
 <HBox fx:id="root" styleClass="root" maxHeight="Infinity" maxWidth="-Infinity" minHeight="600" minWidth="800"
       prefHeight="720.0" prefWidth="1024.0" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1"
-      stylesheets="@../css/style.css" fx:controller="net.saga.tightirc.controller.MainController">
+      stylesheets="@../css/style.css" fx:controller="net.saga.tightirc.controller.ApplicationController">
     <children>
         <AnchorPane fx:id="serverList">
 

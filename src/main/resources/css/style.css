@@ -22,16 +22,18 @@
     -primary: #1a237e;
     -primary_light: #534bae;
     -primary_dark: #000051;
-    -primary_text: #fff;
+    -text_on_primary: #fff;
+    -primary_text: #aaa
     -secondary: #304ffe;
     -secondary_light: #7a7cff;
     -secondary_dark: #0026ca;
     -secondary_text: #fff;
+    -fx-background-color: white;
 }
 
 .button{
 	-fx-font-family: "Roboto Medium";
-	-fx-font-color: -primary_text;
+	-fx-font-color: -text_on_primary;
 	-fx-font-size: 14.0;
 	-fx-background-color: #fff8;
 	-fx-margin: 4px;
@@ -39,7 +41,7 @@
 
 .serverList {
     -fx-background-color: -primary_dark;
-    -fx-font-color: -primary_text;
+    -fx-font-color: -text_on_primary;
 }
 
 .serverButton {
@@ -60,9 +62,41 @@
 
 .channelList {
     -fx-background-color: -primary;
-    -fx-font-color: -primary_text;
+    -fx-font-color: -text_on_primary;
 }
 
 .chatPane {
     -fx-background-color: white;
+}
+
+.dialogHeader {
+    -fx-background-color: -primary
+}
+
+.dialogHeader .text {
+
+    -fx-font-family: "Roboto Medium";
+    	-fx-font-color: -text_on_primary;
+    	-fx-font-size: 42.0;
+    	-fx-margin: 4px;
+}
+
+VBox.formBody {
+    -fx-alignment: center ;
+    -fx-padding: 10px;
+    -fx-spacing: 20px;
+
+}
+
+VBox.formBody .formHeader {
+    -fx-font-family: "Roboto Medium";
+    -fx-font-size: 18.0;
+    -fx-margin: 4px;
+    -fx-text-alignment: center;
+    -fx-origin: baseline;
+
+}
+
+VBox.formBody .formField {
+-jfx-label-float:true
 }

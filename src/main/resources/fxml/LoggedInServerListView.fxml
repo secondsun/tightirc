@@ -7,7 +7,7 @@
 <AnchorPane fx:id="serverList" maxHeight="Infinity" maxWidth="Infinity" minHeight="-Infinity" minWidth="52.0"
             prefHeight="370.0" prefWidth="52.0" styleClass="serverList" stylesheets="@../css/style.css"
             xmlns="http://javafx.com/javafx/9" xmlns:fx="http://javafx.com/fxml/1"
-            fx:controller="net.saga.tightirc.controller.ButtonController">
+            fx:controller="net.saga.tightirc.controller.LoggedInServiceListController">
     <children>
         <ScrollPane hbarPolicy="NEVER" layoutX="14.0" layoutY="14.0" prefHeight="170.0" prefWidth="52.0"
                     style="-fx-background-color: transparent;" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0"
@@ -16,14 +16,10 @@
                 <VBox fx:id="serverIconList" maxWidth="52.0" minWidth="52.0" prefWidth="52.0"
                       style="-fx-background-color: transparent;">
                     <children>
-                        <JFXButton maxHeight="48" maxWidth="48" minHeight="48" minWidth="48" prefHeight="48"
-                                   prefWidth="48" styleClass="serverButton"></JFXButton>
-                        <JFXButton maxHeight="48" maxWidth="48" minHeight="48" minWidth="48" prefHeight="48"
-                                   prefWidth="48" styleClass="serverButton"></JFXButton>
-                        <JFXRippler maxHeight="48" maxWidth="48" minHeight="48" minWidth="48" prefHeight="48"
+                        <JFXRippler maxHeight="48" maxWidth="48" minHeight="48" minWidth="48" prefHeight="48" fx:id="addButton"
                                     prefWidth="48" style="-jfx-mask-type: CIRCLE;">
                             <StackPane style="-fx-padding: 10;">
-                                <FontAwesomeIconView glyphName="PLUS_CIRCLE" size="4em"
+                                <FontAwesomeIconView glyphName="PLUS_CIRCLE" size="2em"
                                                      style="-fx-text-fill: #FFF;-fx-fill:white;"
                                                      styleClass="icon"/>
                             </StackPane>

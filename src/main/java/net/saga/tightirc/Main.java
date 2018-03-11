@@ -1,17 +1,15 @@
 package net.saga.tightirc;
 
-import de.jensd.fx.glyphs.GlyphIconUtils;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
-import javafx.scene.Group;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.layout.AnchorPane;
 import javafx.scene.layout.HBox;
 import javafx.scene.text.Font;
 import javafx.stage.Stage;
-import net.saga.tightirc.controller.ButtonController;
-import net.saga.tightirc.controller.MainController;
+import net.saga.tightirc.controller.LoggedInServiceListController;
+import net.saga.tightirc.controller.ApplicationController;
 
 import java.io.IOException;
 
@@ -28,8 +26,8 @@ public class Main extends Application {
     }
 
 
-    private MainController mainController;
-    private ButtonController buttonController;
+    private ApplicationController applicationController;
+    private LoggedInServiceListController loggedInServiceListController;
     private Stage primaryStage;
     public static void main (String... args) {
         launch(args);
@@ -45,12 +43,12 @@ public class Main extends Application {
     }
 
     private void loadServerList() throws IOException {
-        FXMLLoader loader = new FXMLLoader(getClass().getResource("/fxml/ButtonList.fxml"));
+        FXMLLoader loader = new FXMLLoader(getClass().getResource("/fxml/LoggedInServerListView.fxml"));
 
         Parent root = loader.load();
 
-        this.buttonController = loader.getController();
-        buttonController.setMainApp(this);
+        this.loggedInServiceListController = loader.getController();
+        loggedInServiceListController.setMainApp(this);
 
         AnchorPane serverListPane = (AnchorPane) primaryStage.getScene().lookup("#serverList");
         primaryStage.getScene().getStylesheets().addAll(root.getStylesheets());
@@ -63,15 +61,15 @@ public class Main extends Application {
     }
 
     private void loadRootPane() throws IOException {
-        FXMLLoader loader = new FXMLLoader(getClass().getResource("/fxml/Main.fxml"));
+        FXMLLoader loader = new FXMLLoader(getClass().getResource("/fxml/Application.fxml"));
 
         HBox root = loader.load();
 
         Scene scene = new Scene(root, 300, 275);
         scene.getStylesheets().addAll("/css/style.css");
 
-        this.mainController = loader.getController();
-        mainController.setMainApp(this);
+        this.applicationController = loader.getController();
+        applicationController.setMainApp(this);
 
         this.primaryStage.setScene(scene);
         primaryStage.show();
