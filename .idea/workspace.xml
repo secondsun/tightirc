@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5bebd1dc-ffdd-43ff-b96c-0441d30c2f6a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/net/saga/tightirc/controller/AddServerDialogController.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/saga/tightirc/Main.java" afterPath="$PROJECT_DIR$/src/main/java/net/saga/tightirc/Main.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/saga/tightirc/controller/LoggedInServiceListController.java" afterPath="$PROJECT_DIR$/src/main/java/net/saga/tightirc/controller/LoggedInServiceListController.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/css/style.css" afterPath="$PROJECT_DIR$/src/main/resources/css/style.css" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/fxml/AddServerDialogView.fxml" afterPath="$PROJECT_DIR$/src/main/resources/fxml/AddServerDialogView.fxml" />
-    </list>
+    <list default="true" id="5bebd1dc-ffdd-43ff-b96c-0441d30c2f6a" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,7 +26,7 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
+            <state relative-caret-position="1512">
               <caret line="84" column="22" lean-forward="false" selection-start-line="84" selection-start-column="22" selection-end-line="84" selection-end-column="22" />
               <folding />
             </state>
@@ -46,46 +39,46 @@
             <state relative-caret-position="144">
               <caret line="31" column="18" lean-forward="false" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
               <folding>
-                <marker date="1520098992000" expanded="false" signature="0:104" ph="/.../" />
-                <marker date="1520098992000" expanded="false" signature="144:936" ph="..." />
-                <marker date="1520098992000" expanded="true" signature="1485:2182" ph="{...}" />
-                <marker date="1520098992000" expanded="true" signature="2218:2581" ph="{...}" />
-                <marker date="1520098992000" expanded="true" signature="2631:3003" ph="{...}" />
-                <marker date="1520098992000" expanded="false" signature="3034:3045" ph=" { " />
-                <marker date="1520098992000" expanded="false" signature="3084:3090" ph=" }" />
-                <marker date="1520098992000" expanded="false" signature="3133:3144" ph=" { " />
-                <marker date="1520098992000" expanded="false" signature="3175:3181" ph=" }" />
-                <marker date="1520098992000" expanded="false" signature="3225:3236" ph=" { " />
-                <marker date="1520098992000" expanded="false" signature="3265:3271" ph=" }" />
-                <marker date="1520098992000" expanded="false" signature="3333:3344" ph=" { " />
-                <marker date="1520098992000" expanded="false" signature="3368:3374" ph=" }" />
-                <marker date="1520098992000" expanded="false" signature="3415:3426" ph=" { " />
-                <marker date="1520098992000" expanded="false" signature="3473:3479" ph=" }" />
-                <marker date="1520098992000" expanded="false" signature="3536:3547" ph=" { " />
-                <marker date="1520098992000" expanded="false" signature="3591:3597" ph=" }" />
-                <marker date="1520098992000" expanded="true" signature="3647:3768" ph="{...}" />
-                <marker date="1520098992000" expanded="false" signature="3847:3858" ph=" { " />
-                <marker date="1520098992000" expanded="false" signature="3881:3887" ph=" }" />
-                <marker date="1520098992000" expanded="false" signature="3945:3956" ph=" { " />
-                <marker date="1520098992000" expanded="false" signature="3982:3988" ph=" }" />
-                <marker date="1520098992000" expanded="false" signature="4060:4071" ph=" { " />
-                <marker date="1520098992000" expanded="false" signature="4102:4108" ph=" }" />
-                <marker date="1520098992000" expanded="true" signature="4158:4256" ph="{...}" />
-                <marker date="1520098992000" expanded="false" signature="4319:4330" ph=" { " />
-                <marker date="1520098992000" expanded="false" signature="4378:4384" ph=" }" />
-                <marker date="1520098992000" expanded="true" signature="4463:4853" ph="{...}" />
-                <marker date="1520098992000" expanded="true" signature="4937:5007" ph="{...}" />
-                <marker date="1520098992000" expanded="true" signature="5054:6722" ph="{...}" />
-                <marker date="1520098992000" expanded="true" signature="5354:5365" ph="{}" />
-                <marker date="1520098992000" expanded="true" signature="5382:6716" ph="{...}" />
-                <marker date="1520098992000" expanded="true" signature="5541:5906" ph="{...}" />
-                <marker date="1520098992000" expanded="true" signature="5604:5711" ph="{...}" />
-                <marker date="1520098992000" expanded="true" signature="5816:5892" ph="{...}" />
-                <marker date="1520098992000" expanded="true" signature="6047:6421" ph="{...}" />
-                <marker date="1520098992000" expanded="true" signature="6110:6233" ph="{...}" />
-                <marker date="1520098992000" expanded="true" signature="6323:6407" ph="{...}" />
-                <marker date="1520098992000" expanded="true" signature="6758:6837" ph="{...}" />
-                <marker date="1520098992000" expanded="true" signature="6820:6831" ph="{}" />
+                <marker date="1520020031000" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1520020031000" expanded="false" signature="144:936" ph="..." />
+                <marker date="1520020031000" expanded="true" signature="1485:2182" ph="{...}" />
+                <marker date="1520020031000" expanded="true" signature="2218:2581" ph="{...}" />
+                <marker date="1520020031000" expanded="true" signature="2631:3003" ph="{...}" />
+                <marker date="1520020031000" expanded="false" signature="3034:3045" ph=" { " />
+                <marker date="1520020031000" expanded="false" signature="3084:3090" ph=" }" />
+                <marker date="1520020031000" expanded="false" signature="3133:3144" ph=" { " />
+                <marker date="1520020031000" expanded="false" signature="3175:3181" ph=" }" />
+                <marker date="1520020031000" expanded="false" signature="3225:3236" ph=" { " />
+                <marker date="1520020031000" expanded="false" signature="3265:3271" ph=" }" />
+                <marker date="1520020031000" expanded="false" signature="3333:3344" ph=" { " />
+                <marker date="1520020031000" expanded="false" signature="3368:3374" ph=" }" />
+                <marker date="1520020031000" expanded="false" signature="3415:3426" ph=" { " />
+                <marker date="1520020031000" expanded="false" signature="3473:3479" ph=" }" />
+                <marker date="1520020031000" expanded="false" signature="3536:3547" ph=" { " />
+                <marker date="1520020031000" expanded="false" signature="3591:3597" ph=" }" />
+                <marker date="1520020031000" expanded="true" signature="3647:3768" ph="{...}" />
+                <marker date="1520020031000" expanded="false" signature="3847:3858" ph=" { " />
+                <marker date="1520020031000" expanded="false" signature="3881:3887" ph=" }" />
+                <marker date="1520020031000" expanded="false" signature="3945:3956" ph=" { " />
+                <marker date="1520020031000" expanded="false" signature="3982:3988" ph=" }" />
+                <marker date="1520020031000" expanded="false" signature="4060:4071" ph=" { " />
+                <marker date="1520020031000" expanded="false" signature="4102:4108" ph=" }" />
+                <marker date="1520020031000" expanded="true" signature="4158:4256" ph="{...}" />
+                <marker date="1520020031000" expanded="false" signature="4319:4330" ph=" { " />
+                <marker date="1520020031000" expanded="false" signature="4378:4384" ph=" }" />
+                <marker date="1520020031000" expanded="true" signature="4463:4853" ph="{...}" />
+                <marker date="1520020031000" expanded="true" signature="4937:5007" ph="{...}" />
+                <marker date="1520020031000" expanded="true" signature="5054:6722" ph="{...}" />
+                <marker date="1520020031000" expanded="true" signature="5354:5365" ph="{}" />
+                <marker date="1520020031000" expanded="true" signature="5382:6716" ph="{...}" />
+                <marker date="1520020031000" expanded="true" signature="5541:5906" ph="{...}" />
+                <marker date="1520020031000" expanded="true" signature="5604:5711" ph="{...}" />
+                <marker date="1520020031000" expanded="true" signature="5816:5892" ph="{...}" />
+                <marker date="1520020031000" expanded="true" signature="6047:6421" ph="{...}" />
+                <marker date="1520020031000" expanded="true" signature="6110:6233" ph="{...}" />
+                <marker date="1520020031000" expanded="true" signature="6323:6407" ph="{...}" />
+                <marker date="1520020031000" expanded="true" signature="6758:6837" ph="{...}" />
+                <marker date="1520020031000" expanded="true" signature="6820:6831" ph="{}" />
               </folding>
             </state>
           </provider>
@@ -94,8 +87,8 @@
       <file leaf-file-name="LoggedInServiceListController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/net/saga/tightirc/controller/LoggedInServiceListController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="44" column="40" lean-forward="false" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
+            <state relative-caret-position="432">
+              <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -104,7 +97,7 @@
       <file leaf-file-name="AddServerDialogController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/net/saga/tightirc/controller/AddServerDialogController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="126">
               <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -116,26 +109,23 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/net/saga/tightirc/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="725">
-              <caret line="80" column="50" lean-forward="false" selection-start-line="80" selection-start-column="50" selection-end-line="80" selection-end-column="50" />
-              <folding>
-                <element signature="e#2543#2544#0" expanded="true" />
-                <element signature="e#2601#2602#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1170">
+              <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="AddServerDialogView.fxml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/AddServerDialogView.fxml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="57" lean-forward="false" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
-              <folding />
-            </state>
-          </provider>
           <provider editor-type-id="JavaFX-Scene-Builder">
             <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -217,7 +207,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -309,9 +298,10 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -464,7 +454,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="260" y="20" width="1920" height="1053" extended-state="6" />
+    <frame x="0" y="0" width="2560" height="1440" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -473,13 +463,16 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32747254" sideWeight="0.508547" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32747254" sideWeight="0.491453" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32747254" sideWeight="0.491453" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26175213" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26393312" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -489,13 +482,10 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -552,32 +542,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="44" column="14" lean-forward="false" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="14" />
+        <state relative-caret-position="1512">
+          <caret line="84" column="22" lean-forward="false" selection-start-line="84" selection-start-column="22" selection-end-line="84" selection-end-column="22" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/Main.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/ButtonList.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="29" column="23" lean-forward="false" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/jfoenix/jfoenix/9.0.2/jfoenix-9.0.2.jar!/com/jfoenix/controls/JFXButton.class">
@@ -585,66 +553,160 @@
         <state relative-caret-position="144">
           <caret line="31" column="18" lean-forward="false" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
           <folding>
-            <marker date="1520098992000" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1520098992000" expanded="false" signature="144:936" ph="..." />
-            <marker date="1520098992000" expanded="true" signature="1485:2182" ph="{...}" />
-            <marker date="1520098992000" expanded="true" signature="2218:2581" ph="{...}" />
-            <marker date="1520098992000" expanded="true" signature="2631:3003" ph="{...}" />
-            <marker date="1520098992000" expanded="false" signature="3034:3045" ph=" { " />
-            <marker date="1520098992000" expanded="false" signature="3084:3090" ph=" }" />
-            <marker date="1520098992000" expanded="false" signature="3133:3144" ph=" { " />
-            <marker date="1520098992000" expanded="false" signature="3175:3181" ph=" }" />
-            <marker date="1520098992000" expanded="false" signature="3225:3236" ph=" { " />
-            <marker date="1520098992000" expanded="false" signature="3265:3271" ph=" }" />
-            <marker date="1520098992000" expanded="false" signature="3333:3344" ph=" { " />
-            <marker date="1520098992000" expanded="false" signature="3368:3374" ph=" }" />
-            <marker date="1520098992000" expanded="false" signature="3415:3426" ph=" { " />
-            <marker date="1520098992000" expanded="false" signature="3473:3479" ph=" }" />
-            <marker date="1520098992000" expanded="false" signature="3536:3547" ph=" { " />
-            <marker date="1520098992000" expanded="false" signature="3591:3597" ph=" }" />
-            <marker date="1520098992000" expanded="true" signature="3647:3768" ph="{...}" />
-            <marker date="1520098992000" expanded="false" signature="3847:3858" ph=" { " />
-            <marker date="1520098992000" expanded="false" signature="3881:3887" ph=" }" />
-            <marker date="1520098992000" expanded="false" signature="3945:3956" ph=" { " />
-            <marker date="1520098992000" expanded="false" signature="3982:3988" ph=" }" />
-            <marker date="1520098992000" expanded="false" signature="4060:4071" ph=" { " />
-            <marker date="1520098992000" expanded="false" signature="4102:4108" ph=" }" />
-            <marker date="1520098992000" expanded="true" signature="4158:4256" ph="{...}" />
-            <marker date="1520098992000" expanded="false" signature="4319:4330" ph=" { " />
-            <marker date="1520098992000" expanded="false" signature="4378:4384" ph=" }" />
-            <marker date="1520098992000" expanded="true" signature="4463:4853" ph="{...}" />
-            <marker date="1520098992000" expanded="true" signature="4937:5007" ph="{...}" />
-            <marker date="1520098992000" expanded="true" signature="5054:6722" ph="{...}" />
-            <marker date="1520098992000" expanded="true" signature="5354:5365" ph="{}" />
-            <marker date="1520098992000" expanded="true" signature="5382:6716" ph="{...}" />
-            <marker date="1520098992000" expanded="true" signature="5541:5906" ph="{...}" />
-            <marker date="1520098992000" expanded="true" signature="5604:5711" ph="{...}" />
-            <marker date="1520098992000" expanded="true" signature="5816:5892" ph="{...}" />
-            <marker date="1520098992000" expanded="true" signature="6047:6421" ph="{...}" />
-            <marker date="1520098992000" expanded="true" signature="6110:6233" ph="{...}" />
-            <marker date="1520098992000" expanded="true" signature="6323:6407" ph="{...}" />
-            <marker date="1520098992000" expanded="true" signature="6758:6837" ph="{...}" />
-            <marker date="1520098992000" expanded="true" signature="6820:6831" ph="{}" />
+            <marker date="1520020031000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1520020031000" expanded="false" signature="144:936" ph="..." />
+            <marker date="1520020031000" expanded="true" signature="1485:2182" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="2218:2581" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="2631:3003" ph="{...}" />
+            <marker date="1520020031000" expanded="false" signature="3034:3045" ph=" { " />
+            <marker date="1520020031000" expanded="false" signature="3084:3090" ph=" }" />
+            <marker date="1520020031000" expanded="false" signature="3133:3144" ph=" { " />
+            <marker date="1520020031000" expanded="false" signature="3175:3181" ph=" }" />
+            <marker date="1520020031000" expanded="false" signature="3225:3236" ph=" { " />
+            <marker date="1520020031000" expanded="false" signature="3265:3271" ph=" }" />
+            <marker date="1520020031000" expanded="false" signature="3333:3344" ph=" { " />
+            <marker date="1520020031000" expanded="false" signature="3368:3374" ph=" }" />
+            <marker date="1520020031000" expanded="false" signature="3415:3426" ph=" { " />
+            <marker date="1520020031000" expanded="false" signature="3473:3479" ph=" }" />
+            <marker date="1520020031000" expanded="false" signature="3536:3547" ph=" { " />
+            <marker date="1520020031000" expanded="false" signature="3591:3597" ph=" }" />
+            <marker date="1520020031000" expanded="true" signature="3647:3768" ph="{...}" />
+            <marker date="1520020031000" expanded="false" signature="3847:3858" ph=" { " />
+            <marker date="1520020031000" expanded="false" signature="3881:3887" ph=" }" />
+            <marker date="1520020031000" expanded="false" signature="3945:3956" ph=" { " />
+            <marker date="1520020031000" expanded="false" signature="3982:3988" ph=" }" />
+            <marker date="1520020031000" expanded="false" signature="4060:4071" ph=" { " />
+            <marker date="1520020031000" expanded="false" signature="4102:4108" ph=" }" />
+            <marker date="1520020031000" expanded="true" signature="4158:4256" ph="{...}" />
+            <marker date="1520020031000" expanded="false" signature="4319:4330" ph=" { " />
+            <marker date="1520020031000" expanded="false" signature="4378:4384" ph=" }" />
+            <marker date="1520020031000" expanded="true" signature="4463:4853" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="4937:5007" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="5054:6722" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="5354:5365" ph="{}" />
+            <marker date="1520020031000" expanded="true" signature="5382:6716" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="5541:5906" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="5604:5711" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="5816:5892" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="6047:6421" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="6110:6233" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="6323:6407" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="6758:6837" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="6820:6831" ph="{}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/saga/tightirc/controller/MainController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/saga/tightirc/controller/LoggedInServiceListController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        <state relative-caret-position="432">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/saga/tightirc/controller/AddServerDialogController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/net/saga/tightirc/Main.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="78" column="0" lean-forward="true" selection-start-line="78" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/AddServerDialogView.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2592">
+          <caret line="144" column="21" lean-forward="false" selection-start-line="144" selection-start-column="21" selection-end-line="144" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="44" column="14" lean-forward="false" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/Main.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/ButtonList.fxml" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/jfoenix/jfoenix/9.0.2/jfoenix-9.0.2.jar!/com/jfoenix/controls/JFXButton.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="31" column="18" lean-forward="false" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+          <folding>
+            <marker date="1520020031000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1520020031000" expanded="false" signature="144:936" ph="..." />
+            <marker date="1520020031000" expanded="true" signature="1485:2182" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="2218:2581" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="2631:3003" ph="{...}" />
+            <marker date="1520020031000" expanded="false" signature="3034:3045" ph=" { " />
+            <marker date="1520020031000" expanded="false" signature="3084:3090" ph=" }" />
+            <marker date="1520020031000" expanded="false" signature="3133:3144" ph=" { " />
+            <marker date="1520020031000" expanded="false" signature="3175:3181" ph=" }" />
+            <marker date="1520020031000" expanded="false" signature="3225:3236" ph=" { " />
+            <marker date="1520020031000" expanded="false" signature="3265:3271" ph=" }" />
+            <marker date="1520020031000" expanded="false" signature="3333:3344" ph=" { " />
+            <marker date="1520020031000" expanded="false" signature="3368:3374" ph=" }" />
+            <marker date="1520020031000" expanded="false" signature="3415:3426" ph=" { " />
+            <marker date="1520020031000" expanded="false" signature="3473:3479" ph=" }" />
+            <marker date="1520020031000" expanded="false" signature="3536:3547" ph=" { " />
+            <marker date="1520020031000" expanded="false" signature="3591:3597" ph=" }" />
+            <marker date="1520020031000" expanded="true" signature="3647:3768" ph="{...}" />
+            <marker date="1520020031000" expanded="false" signature="3847:3858" ph=" { " />
+            <marker date="1520020031000" expanded="false" signature="3881:3887" ph=" }" />
+            <marker date="1520020031000" expanded="false" signature="3945:3956" ph=" { " />
+            <marker date="1520020031000" expanded="false" signature="3982:3988" ph=" }" />
+            <marker date="1520020031000" expanded="false" signature="4060:4071" ph=" { " />
+            <marker date="1520020031000" expanded="false" signature="4102:4108" ph=" }" />
+            <marker date="1520020031000" expanded="true" signature="4158:4256" ph="{...}" />
+            <marker date="1520020031000" expanded="false" signature="4319:4330" ph=" { " />
+            <marker date="1520020031000" expanded="false" signature="4378:4384" ph=" }" />
+            <marker date="1520020031000" expanded="true" signature="4463:4853" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="4937:5007" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="5054:6722" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="5354:5365" ph="{}" />
+            <marker date="1520020031000" expanded="true" signature="5382:6716" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="5541:5906" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="5604:5711" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="5816:5892" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="6047:6421" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="6110:6233" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="6323:6407" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="6758:6837" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="6820:6831" ph="{}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/saga/tightirc/controller/MainController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/saga/tightirc/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="17" column="78" lean-forward="false" selection-start-line="17" selection-start-column="78" selection-end-line="17" selection-end-column="78" />
-          <folding>
-            <element signature="e#2543#2544#0" expanded="true" />
-            <element signature="e#2601#2602#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -664,47 +726,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/Main.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="55" lean-forward="false" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/Main.fxml" />
     <entry file="file://$PROJECT_DIR$/src/main/java/net/saga/tightirc/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="17" column="78" lean-forward="false" selection-start-line="17" selection-start-column="78" selection-end-line="17" selection-end-column="78" />
-          <folding>
-            <element signature="e#2543#2544#0" expanded="true" />
-            <element signature="e#2601#2602#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/saga/tightirc/controller/MainController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/ButtonList.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/saga/tightirc/controller/MainController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/ButtonList.fxml" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2592">
@@ -713,36 +745,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/Main.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="55" lean-forward="false" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/Main.fxml" />
     <entry file="file://$PROJECT_DIR$/src/main/java/net/saga/tightirc/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="20" column="56" lean-forward="false" selection-start-line="20" selection-start-column="56" selection-end-line="20" selection-end-column="56" />
-          <folding>
-            <element signature="e#2543#2544#0" expanded="true" />
-            <element signature="e#2601#2602#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/saga/tightirc/controller/MainController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/saga/tightirc/controller/MainController.java" />
     <entry file="file://$PROJECT_DIR$/src/main/resources/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
@@ -752,26 +764,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/net/saga/tightirc/controller/MainController.kt" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/Main.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="309" lean-forward="false" selection-start-line="6" selection-start-column="309" selection-end-line="6" selection-end-column="309" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/Main.fxml" />
     <entry file="file://$PROJECT_DIR$/.idea/compiler.xml" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/saga/tightirc/controller/MainController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/saga/tightirc/controller/MainController.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2592">
@@ -780,80 +775,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/Main.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/ButtonList.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="29" column="23" lean-forward="false" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="JavaFX-Scene-Builder">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/Main.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/ButtonList.fxml" />
     <entry file="jar://$MAVEN_REPOSITORY$/com/jfoenix/jfoenix/9.0.2/jfoenix-9.0.2.jar!/com/jfoenix/controls/JFXButton.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="31" column="18" lean-forward="false" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
           <folding>
-            <marker date="1520098992000" expanded="false" signature="0:104" ph="/.../" />
-            <marker date="1520098992000" expanded="false" signature="144:936" ph="..." />
-            <marker date="1520098992000" expanded="true" signature="1485:2182" ph="{...}" />
-            <marker date="1520098992000" expanded="true" signature="2218:2581" ph="{...}" />
-            <marker date="1520098992000" expanded="true" signature="2631:3003" ph="{...}" />
-            <marker date="1520098992000" expanded="false" signature="3034:3045" ph=" { " />
-            <marker date="1520098992000" expanded="false" signature="3084:3090" ph=" }" />
-            <marker date="1520098992000" expanded="false" signature="3133:3144" ph=" { " />
-            <marker date="1520098992000" expanded="false" signature="3175:3181" ph=" }" />
-            <marker date="1520098992000" expanded="false" signature="3225:3236" ph=" { " />
-            <marker date="1520098992000" expanded="false" signature="3265:3271" ph=" }" />
-            <marker date="1520098992000" expanded="false" signature="3333:3344" ph=" { " />
-            <marker date="1520098992000" expanded="false" signature="3368:3374" ph=" }" />
-            <marker date="1520098992000" expanded="false" signature="3415:3426" ph=" { " />
-            <marker date="1520098992000" expanded="false" signature="3473:3479" ph=" }" />
-            <marker date="1520098992000" expanded="false" signature="3536:3547" ph=" { " />
-            <marker date="1520098992000" expanded="false" signature="3591:3597" ph=" }" />
-            <marker date="1520098992000" expanded="true" signature="3647:3768" ph="{...}" />
-            <marker date="1520098992000" expanded="false" signature="3847:3858" ph=" { " />
-            <marker date="1520098992000" expanded="false" signature="3881:3887" ph=" }" />
-            <marker date="1520098992000" expanded="false" signature="3945:3956" ph=" { " />
-            <marker date="1520098992000" expanded="false" signature="3982:3988" ph=" }" />
-            <marker date="1520098992000" expanded="false" signature="4060:4071" ph=" { " />
-            <marker date="1520098992000" expanded="false" signature="4102:4108" ph=" }" />
-            <marker date="1520098992000" expanded="true" signature="4158:4256" ph="{...}" />
-            <marker date="1520098992000" expanded="false" signature="4319:4330" ph=" { " />
-            <marker date="1520098992000" expanded="false" signature="4378:4384" ph=" }" />
-            <marker date="1520098992000" expanded="true" signature="4463:4853" ph="{...}" />
-            <marker date="1520098992000" expanded="true" signature="4937:5007" ph="{...}" />
-            <marker date="1520098992000" expanded="true" signature="5054:6722" ph="{...}" />
-            <marker date="1520098992000" expanded="true" signature="5354:5365" ph="{}" />
-            <marker date="1520098992000" expanded="true" signature="5382:6716" ph="{...}" />
-            <marker date="1520098992000" expanded="true" signature="5541:5906" ph="{...}" />
-            <marker date="1520098992000" expanded="true" signature="5604:5711" ph="{...}" />
-            <marker date="1520098992000" expanded="true" signature="5816:5892" ph="{...}" />
-            <marker date="1520098992000" expanded="true" signature="6047:6421" ph="{...}" />
-            <marker date="1520098992000" expanded="true" signature="6110:6233" ph="{...}" />
-            <marker date="1520098992000" expanded="true" signature="6323:6407" ph="{...}" />
-            <marker date="1520098992000" expanded="true" signature="6758:6837" ph="{...}" />
-            <marker date="1520098992000" expanded="true" signature="6820:6831" ph="{}" />
+            <marker date="1520020031000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1520020031000" expanded="false" signature="144:936" ph="..." />
+            <marker date="1520020031000" expanded="true" signature="1485:2182" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="2218:2581" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="2631:3003" ph="{...}" />
+            <marker date="1520020031000" expanded="false" signature="3034:3045" ph=" { " />
+            <marker date="1520020031000" expanded="false" signature="3084:3090" ph=" }" />
+            <marker date="1520020031000" expanded="false" signature="3133:3144" ph=" { " />
+            <marker date="1520020031000" expanded="false" signature="3175:3181" ph=" }" />
+            <marker date="1520020031000" expanded="false" signature="3225:3236" ph=" { " />
+            <marker date="1520020031000" expanded="false" signature="3265:3271" ph=" }" />
+            <marker date="1520020031000" expanded="false" signature="3333:3344" ph=" { " />
+            <marker date="1520020031000" expanded="false" signature="3368:3374" ph=" }" />
+            <marker date="1520020031000" expanded="false" signature="3415:3426" ph=" { " />
+            <marker date="1520020031000" expanded="false" signature="3473:3479" ph=" }" />
+            <marker date="1520020031000" expanded="false" signature="3536:3547" ph=" { " />
+            <marker date="1520020031000" expanded="false" signature="3591:3597" ph=" }" />
+            <marker date="1520020031000" expanded="true" signature="3647:3768" ph="{...}" />
+            <marker date="1520020031000" expanded="false" signature="3847:3858" ph=" { " />
+            <marker date="1520020031000" expanded="false" signature="3881:3887" ph=" }" />
+            <marker date="1520020031000" expanded="false" signature="3945:3956" ph=" { " />
+            <marker date="1520020031000" expanded="false" signature="3982:3988" ph=" }" />
+            <marker date="1520020031000" expanded="false" signature="4060:4071" ph=" { " />
+            <marker date="1520020031000" expanded="false" signature="4102:4108" ph=" }" />
+            <marker date="1520020031000" expanded="true" signature="4158:4256" ph="{...}" />
+            <marker date="1520020031000" expanded="false" signature="4319:4330" ph=" { " />
+            <marker date="1520020031000" expanded="false" signature="4378:4384" ph=" }" />
+            <marker date="1520020031000" expanded="true" signature="4463:4853" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="4937:5007" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="5054:6722" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="5354:5365" ph="{}" />
+            <marker date="1520020031000" expanded="true" signature="5382:6716" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="5541:5906" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="5604:5711" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="5816:5892" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="6047:6421" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="6110:6233" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="6323:6407" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="6758:6837" ph="{...}" />
+            <marker date="1520020031000" expanded="true" signature="6820:6831" ph="{}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/net/saga/tightirc/controller/AddServerDialogController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="126">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -863,40 +838,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/net/saga/tightirc/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="80" column="50" lean-forward="false" selection-start-line="80" selection-start-column="50" selection-end-line="80" selection-end-column="50" />
-          <folding>
-            <element signature="e#2543#2544#0" expanded="true" />
-            <element signature="e#2601#2602#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1170">
+          <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/net/saga/tightirc/controller/LoggedInServiceListController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="44" column="40" lean-forward="false" selection-start-line="44" selection-start-column="40" selection-end-line="44" selection-end-column="40" />
+        <state relative-caret-position="432">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
+        <state relative-caret-position="1512">
           <caret line="84" column="22" lean-forward="false" selection-start-line="84" selection-start-column="22" selection-end-line="84" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/fxml/AddServerDialogView.fxml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="57" lean-forward="false" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
       <provider editor-type-id="JavaFX-Scene-Builder">
         <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
